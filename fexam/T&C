@@ -1,0 +1,51 @@
+📌 Informasi Seputar Kelas 📌 
+
+Pengumuman Mini Exam – Web Penetration Testing Batch 29! 🔥
+
+Sebagai bagian dari evaluasi pemahaman materi Web Penetration Testing, kami akan mengadakan Mini Exam dengan format praktik langsung pada target yang telah disediakan.
+
+🔐 Detail Mini Exam
+
+Jenis: Praktik Web Penetration Testing
+Target: http://194.233.89.48:5000/
+Mulai: Selasa, 22 September 2026 pukul 09.00 WIB
+Durasi Pengerjaan: 1 minggu
+Pengumpulan Laporan (upload): Selasa, 29 September 2026 pukul 09.00 WIB
+
+📌 Temukan 10 finding valid, dokumentasikan evidence Anda, dan unggah laporan melalui Portal Merdeka Siber.
+
+Wajib mendapatkan celah dengan severity:
+- 3 Critical Vulnerability 🔥
+- 2 High Vulnerability 🔥
+Referensi hints : http://194.233.89.48:5000/walkthrough/
+
+📄 Template Laporan Mini Exam: Untuk mempermudah penyusunan laporan, silakan gunakan template resmi berikut: 
+
+https://docs.google.com/document/d/17Bh7o_RJ9JEOj08Iz75e4J6hqca1jYe6/edit?usp=sharing&ouid=108725606044118536362&rtpof=true&sd=true
+
+🎯 Tujuan Mini Exam
+- Mengukur kemampuan teknis peserta dalam melakukan web pentesting secara mandiri
+- Melatih mindset attacker dan analyst secara seimbang
+- Membiasakan workflow pentesting yang sistematis, rapi, dan profesional
+
+🛡 Fokus Pengujian
+Peserta diharapkan mengidentifikasi celah keamanan berdasarkan kategori OWASP Top 10 yang telah dipelajari, seperti:
+- Injection (SQL Injection, HTML Injection, Command Injection, dll.)
+- Broken Authentication & Session Management
+- Sensitive Data Exposure
+- Information Disclosure
+- Broken Access Control / IDOR
+- Security Misconfiguration
+- Cross-Site Scripting (XSS)
+- Vulnerable & Outdated Components
+- Insufficient Logging & Monitoring
+- Dll
+
+Gunakan metodologi pengujian yang sistematis untuk menemukan, memvalidasi, dan mendokumentasikan temuan.
+
+📌 Catatan Penting
+- Target digunakan khusus untuk keperluan ujian
+- Wajib menjaga scope dan etika penetration testing
+- Hasil pengerjaan akan dipresentasikan sebagai bentuk pertanggung jawaban teknis dan pemahaman konsep
+
+Informasi selengkapnya: https://merdekasiber.com/mini-exam
